@@ -64,6 +64,10 @@ main h1, main h2, .menu-title {
     font-family: "traveling__typewriterregular";
 }
 
+main h3, main h4 {
+    font-family: "traveling__typewriterregular";
+}
+
 main img {
     max-width: 650px;
     box-shadow: 0 4px 8px 0 var(--fg), 0 6px 20px 0 var(--fg);
