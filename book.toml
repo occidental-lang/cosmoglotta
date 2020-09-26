@@ -1,0 +1,21 @@
+[book]
+authors = ["Occidental Autores"]
+language = "ie"
+multilingual = false
+src = "src"
+title = "Cosmoglotta"
+description = "JURNAL SCIENTIC ÍNPARTIAL DE LINGUE INTERNATIONAL."
+
+[output.html]
+theme = "src/theme"
+default-theme = "rust"
+preferred-dark-theme = "coal"
+git-repository-url = "https://github.com/occidental-lang/cosmoglotta"
+site-url = "/cosmoglotta/"
+
+[output.html.fold]
+enable = true
+level = 0
+
+[build]
+build-dir = "docs"
