@@ -7083,7 +7083,7 @@ pluri lingues natural.
 
 Li paroles international es in majorité de orígine latin. Esperanto da
 les un ortografie ne international-europan ma
-polonés-tchecoslovac{blank}footnote:[Ti e altri remarcas nullmen torna se
+polonés-tchecoslovac footnote:[Ti e altri remarcas nullmen torna se
 contra li lingues polonés, tchec, slovac, queles have ortografies sin
 dúbit excellentmen adaptat al reproduction del specific slav sones e
 paroles.], quel defigura les.
@@ -7092,7 +7092,7 @@ paroles.], quel defigura les.
 
 Esperanto contene special lítteres tegmentat (consonantes con accentu
 circumflex) ínexistent in altri lingues, e consequentmen trovat solmen
-in un númer limitat de printerías{blank}footnote:[P. ex. li grand printería
+in un númer limitat de printerías footnote:[P. ex. li grand printería
 quel printa Cosmoglotta, ne possede les.],
 citat del Esperantist Stojan in su
 «Bibliografio». Inplu, mult scri-machines ne have un circumflex
@@ -7513,7 +7513,7 @@ dialog inter li patre e li infante, e li paroles del fantoma, audit \
 solmen del infante. I.F.
 
 
-### Li rey del alnes{blank}footnote:[{pednote99904}]
+### Li rey del alnes footnote:[{pednote99904}]
 
 _J.-W von Goethe_
 
@@ -9300,7 +9300,7 @@ queles noi ancor prefere ne publicar: noi ha interim respondet a ún
 ínjustificat reproche, ti «que li idistic eforties pri cooperation ne
 trova un suol fertil che nos». In un lettre al president-cassero del
 Ido-Union e al redaction e administration de «Progreso», li
-administration de «Cosmoglotta» ha{blank}footnote:[provocat.]
+administration de «Cosmoglotta» ha footnote:[provocat.]
 fat concret propositiones pri un plu strett cooperation, quam
 response a lor purmen retoric manifestes. Nor futur atitude va depender
 de lor reaction.
@@ -18322,7 +18322,7 @@ in omni altri lingues sur li síllabe sequent al i. Li sufix total es
 qual-itat-iv. Li i ne es essential: p. ex. majestat, pietá, libertá.
 Exceptet li casus rar supra-citat, li síllabe _at_ de ti sufix
 desapari in compositiones e derivates, p. ex. majest-osi, piet-ist,
-purit-an, libert-in. Pro to it apare ne-util{blank}footnote:[Ci on posse vider
+purit-an, libert-in. Pro to it apare ne-util footnote:[Ci on posse vider
 que it ne es lu sam, dir ne util e ínutil e que li traduction de
 Esperanto «senutila» por li duesim es totmen bon. Ti construction
 trova se anc in anglés: «-less», russ «bes-», e german: «un-» e
@@ -18355,14 +18355,14 @@ de sufixes presenta un grand desfacilitá por un Lingue International
 quel deve haver exactmen definit afixes, e to vale specialmen por
 Esperanto in quel omni substantive fini per -o. Yo vell proposir: (1)
 perdit, (2) eremito (con -o = persones masculin), (3) granite
-(con -e, neutral sin specification), (4) pleuriti{blank}footnote:[In
+(con -e, neutral sin specification), (4) pleuriti footnote:[In
 Occidental (quel aparit solmen 14 annus pos scrition de. ti articul)
 on usat durant li comensa quam sufix de maladies egalmen -itis e -ite.
 Hodie, li duesim form es generalmen preferet, corespondente plu bon al
 caracter de Occidental. Li coincidentie con li sufix del minerales ne
 ha monstrat se trublant; li grand pluparte de ambi categories es presc
 exclusivmen scientic paroles. I.F.], (5) purité o puritá (con
-accentuat final vocale{blank}footnote:[A tis queles time que ne omni
+accentuat final vocale footnote:[A tis queles time que ne omni
 printería have vocales accentuat, yo consilia usar un apostrof:
 purita'. -- On vide quel variabilita' e nexibilita' on posse atinger
 si on ne depende de un vocale constant quel da solmen li possibilita'
@@ -19907,7 +19907,7 @@ plus complicat quam haver verbes in *a, e, i.* -- In plu,
 
 Al assertion que it es desfacil aprender quel verbes fini per
 *ar*, quel per *er* e *ir*, yo ne posse
-consentir. Quande yo aprende Esperanto{blank}footnote:[Li originale
+consentir. Quande yo aprende Esperanto footnote:[Li originale
 contene analog exemples ex li reform-proposition de
 Rosenberger pri su «Neutral», queles hodie plu ne es actual.]
 yo ya anc ne save ca yo deve
@@ -22142,7 +22142,7 @@ li morte del heróe e de su ovre.
 
 
 Ínfelicimen li lette de Procrust continua anc in
-Ido{blank}footnote:[Li originale contene ci li abreviation *E. S.*
+Ido footnote:[Li originale contene ci li abreviation *E. S.*
 quel vole dir «Esperanto simplificat». Ma poy li paroles «Ido» es usat
 anc in li originale. I. F.] e li reformes concerne solmen ínsuficent
 partes, quam mutation de singul parol e del ortografie, addition de
@@ -24637,7 +24637,7 @@ Leipziger Messamt. Li ' indica li diferent partes queles composi li \
 paroles.
 
 
-## Comparation{blank}footnote:[{pednote111520}]
+## Comparation footnote:[{pednote111520}]
 
 
 
@@ -29464,7 +29464,7 @@ Occidental, CHAPELLE.
 
 Nor activ coidealist, sr. Major Tanner, fat inserter un curt recension
 pri li just aparit «Vollständiger Lehrgang» de sr. Matejka in li Fögl
-Ladina{blank}footnote:[Quel apari in Samedan (Samaden), Grisones.]
+Ladina footnote:[Quel apari in Samedan (Samaden), Grisones.]
 del 14 august 1942. Il reserva se un plu ampli recension.
 Interim il responde in resuma al question «Quo es Occidental?» (Che
 ais Occidental?) per li afirmation «Occidental es li populari latin».
@@ -31849,7 +31849,7 @@ ne.
 Ti modern metode de calculation have li avantagie que vu posse sempre
 strax saver quant alt
 vor beneficie es, totmen egal ca vu vole acordar un special rabatte,
-demandar un suplement de incaration{blank}footnote:[in-car-ation, D
+demandar un suplement de incaration footnote:[in-car-ation, D
 Teuerung, F Renchérissement.], far un general reduction de precie in
 ocasion de un vendition total o qualcunc altri changeament.
 
@@ -35609,7 +35609,7 @@ queles va auxiliar nos:
 
 1. Scrir o stampar sur chascun lettre li complet adresse del expeditor
 por evitar li reserches de adresses.
-2. {blank}
+2.  
 [upperalpha]
 .. Li important problemas o questiones deve esser tractat sur folies
 separat, quo permisse al I.O strax transdar les al colaborator
@@ -38524,7 +38524,7 @@ essayes pri scientic temas, queles il hat scrit in su solitá, por ex.
 pri influentie del finno-ugric lingues sur li slavic lingues, pri li
 predition historic e li quaresim dimension, un nov version modificat de
 su anteyan conferentie:
-Rason del historic follies{blank}footnote:[Vide Cosmoglotta VIII/nr.58
+Rason del historic follies footnote:[Vide Cosmoglotta VIII/nr.58
 (marte 1929).]. Omni labores esset de alt nivell
 intellectual. In marte il ha esset victim de un grand desfortune. Su
 litt domette con li tot biblioteca e omnicos quo il possedet esset
@@ -51034,7 +51034,7 @@ Li Universo representa un valore mult plu constant quam li aure, ergo li
 merces e li salaries deveni stabil. Explicar li functionament de ti
 sistema
 vell esser tro long. Pro to noi reinvia li letores al brochura quel noi
-publicat recentmen{blank}footnote:[Ti brochura, scrit in francesi e titulat
+publicat recentmen footnote:[Ti brochura, scrit in francesi e titulat
 «L'Universo, monnaie de compte internationale», es obtenibil che li
 autor sr. Paul Jauzin, 7, Rue Berthelot, Montrouge, Seine. Postal
 checs 17890 Paris (Precie del brochura 12 frs francesi).].
@@ -57641,7 +57641,7 @@ adplu fat remarcar que, in contrast a traductiones de francesi a
 anglesi, li aplication del sistema del simultan e ínmediat traductiones
 de german a francesi (li max frequent casu quel vell presentar se in li
 sviss parlament) es mult plu delicat, pro li fundamental diferenties in
-li structura del frases{blank}footnote:[On save que pro li complicat
+li structura del frases footnote:[On save que pro li complicat
 sintaxe german, on sovente ne posse capter li sense ante har audit li
 fine del frase ad u li verbe es rejectet in propositiones
 subordinat.].
@@ -63109,7 +63109,7 @@ desesperatmen por auxilie.
 «Escuta!» li nimfa dit, stoppante su caresses. «A qui evenit un
 accidente?»
 
-«A ti ugli{blank}footnote:[ugli = F laid, A ugly, H feo, I
+«A ti ugli footnote:[ugli = F laid, A ugly, H feo, I
 brutto, G hässlich. Nor «desbell» es tro debil por expresser li senses
 indicat in supra. Li radica francesi «led» ne convene pro que it ja
 have un altri sense: leder, lesion. Li proposition vicear «desbell»
@@ -65705,7 +65705,7 @@ artificial) scrit de un esperantist nederlandesi, Sr. W.J.A. Manders de
 Venlo. Per ti libre li autor ha habilitat se quam doctor de filologie in
 li Universitá de Utrecht. It es, secun quant yo save, li unesim vez que
 li problema del lingue international fa li objecte de un dissertation
-doctoral{blank}footnote:[Noi conosse un altri casu: Sr. Dr. Jean
+doctoral footnote:[Noi conosse un altri casu: Sr. Dr. Jean
 Laurent, Marseille (Red.).].  Sur ne minu quam 386 págines (un
 respectabil amplore por un
 dissertation!) Sr. Manders tracta li 5 max conosset lingues artificial:
@@ -81348,7 +81348,7 @@ vorto!), eksigi (excluder), registaro (guvernament), purigi (purificar),
 kreinto (creator), kreaĵo (creatura), pafilego (canone), regulilo
 (regulator), ebla (possibil), senpere (ínmediatmen), imperiestro
 (imperator), koncentrigo (concentration), perforto (violentie). -- Eĉ
-lingvistoj ne{blank}footnote:[«Eĉ ne lingvistoj» in li textu original. Editor
+lingvistoj ne footnote:[«Eĉ ne lingvistoj» in li textu original. Editor
 digital.] komprenas tiaj vortoj unuavide. Ili bezonas klarigo; sed
 kompreneble la esperantistoj fieras pri la *purismo* de sia lingvo!
 
@@ -81874,7 +81874,7 @@ chrome,
 | 83      | bismut                       | Bi         | 209,0
 | 84      | polonium                     | Po         | ?
 | 85?     | ?                            | ?          | ?
-| 86      | radon{blank}footnote:[O emanation.] | Rn  | 222
+| 86      | radon footnote:[O emanation.] | Rn  | 222
 | 87?     | ?                            | ?          | ?
 | 88      | radium                       | Ra         | 226,05
 | 89      | actinium                     | Act        | ?
