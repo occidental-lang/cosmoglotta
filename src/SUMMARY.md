@@ -93,4 +93,6 @@
   - [A 110](./Cosmoglotta/110.md)
   - [A 111](./Cosmoglotta/111.md)
   - [B 8](./Cosmoglotta/B-008.md)
+- [1937](./Cosmoglotta/1937.md)
+  - [A 112](./Cosmoglotta/112.md)
 - [The Rest](./Cosmoglotta/theRest.md)
