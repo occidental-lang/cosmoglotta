@@ -48,114 +48,114 @@
         </tr>
         <tr>
             <td>1929</td>
-            <td><a href="./nro/056.html">56</td>
-            <td><a href="./nro/057.html">57</td>
-            <td><a href="./nro/058.html">58</td>
-            <td><a href="./nro/059.html">59</td>
-            <td><a href="./nro/060.html">60</td>
-            <td><a href="./nro/061.html">61</td>
-            <td colspan="2"><a href="./nro/062-063.html">62 - 63</td>
-            <td><a href="./nro/064.html">64</td>
-            <td><a href="./nro/065.html">65</td>
-            <td><a href="./nro/066.html">66</td>
-            <td><a href="./nro/067.html">67</td>
+            <td><a href="./nro/056.html">56</a></td>
+            <td><a href="./nro/057.html">57</a></td>
+            <td><a href="./nro/058.html">58</a></td>
+            <td><a href="./nro/059.html">59</a></td>
+            <td><a href="./nro/060.html">60</a></td>
+            <td><a href="./nro/061.html">61</a></td>
+            <td colspan="2"><a href="./nro/062-063.html">62 - 63</a></td>
+            <td><a href="./nro/064.html">64</a></td>
+            <td><a href="./nro/065.html">65</a></td>
+            <td><a href="./nro/066.html">66</a></td>
+            <td><a href="./nro/067.html">67</a></td>
             <td></td>
         </tr>
         <tr>
             <td>1930</td>
-            <td><a href="./nro/068.html">68</td>
+            <td><a href="./nro/068.html">68</a></td>
             <td></td>
-            <td><a href="./nro/069.html">69</td>
+            <td><a href="./nro/069.html">69</a></td>
             <td></td>
-            <td><a href="./nro/070.html">70</td>
+            <td><a href="./nro/070.html">70</a></td>
             <td></td>
-            <td><a href="./nro/071.html">71</td>
+            <td><a href="./nro/071.html">71</a></td>
             <td></td>
-            <td><a href="./nro/072.html">72</td>
+            <td><a href="./nro/072.html">72</a></td>
             <td></td>
-            <td><a href="./nro/073.html">73</td>
+            <td><a href="./nro/073.html">73</a></td>
             <td></td>
             <td></td>
         </tr>
         <tr>
             <td>1931</td>
-            <td><a href="./nro/074.html">74</td>
+            <td><a href="./nro/074.html">74</a></td>
             <td></td>
-            <td><a href="./nro/075.html">75</td>
+            <td><a href="./nro/075.html">75</a></td>
             <td></td>
-            <td><a href="./nro/076.html">76</td>
+            <td><a href="./nro/076.html">76</a></td>
             <td></td>
-            <td><a href="./nro/077.html">77</td>
+            <td><a href="./nro/077.html">77</a></td>
             <td></td>
-            <td><a href="./nro/078.html">78</td>
+            <td><a href="./nro/078.html">78</a></td>
             <td></td>
-            <td><a href="./nro/079.html">79</td>
+            <td><a href="./nro/079.html">79</a></td>
             <td></td>
             <td>3)</td>
         </tr>
         <tr>
             <td>1932</td>
-            <td><a href="./nro/080.html">80</td>
+            <td><a href="./nro/080.html">80</a></td>
             <td></td>
-            <td><a href="./nro/081.html">81</td>
+            <td><a href="./nro/081.html">81</a></td>
             <td></td>
-            <td><a href="./nro/082.html">82</td>
+            <td><a href="./nro/082.html">82</a></td>
             <td></td>
-            <td><a href="./nro/083.html">83</td>
+            <td><a href="./nro/083.html">83</a></td>
             <td></td>
-            <td><a href="./nro/084.html">84</td>
+            <td><a href="./nro/084.html">84</a></td>
             <td></td>
-            <td><a href="./nro/085.html">85</td>
+            <td><a href="./nro/085.html">85</a></td>
             <td></td>
             <td>4)</td>
         </tr>
         <tr>
             <td>1933</td>
+            <td><a href="./nro/086.html">86</a></td>
             <td></td>
+            <td><a href="./nro/087.html">87</a></td>
             <td></td>
+            <td><a href="./nro/088.html">88</a></td>
             <td></td>
+            <td><a href="./nro/089.html">89</a></td>
             <td></td>
+            <td><a href="./nro/090.html">90</a></td>
             <td></td>
+            <td><a href="./nro/091.html">91</a></td>
             <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>5)</td>
         </tr>
         <tr>
             <td>1934</td>
+            <td><a href="./nro/092.html">92</a></td>
+            <td><a href="./nro/093.html">93</a></td>
+            <td><a href="./nro/094.html">94</a></td>
+            <td><a href="./nro/095.html">95</a></td>
+            <td><a href="./nro/096.html">96</a></td>
             <td></td>
+            <td><a href="./nro/097.html">97</a></td>
             <td></td>
+            <td><a href="./nro/098.html">98</a></td>
             <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td><a href="./nro/099.html">99</a></td>
             <td></td>
             <td></td>
         </tr>
         <tr>
             <td>1935</td>
+            <td><a href="./nro/100.html">100</a></td>
+            <td><a href="./nro/B-001.html">B-1</a></td>
+            <td><a href="./nro/101.html">101</a></td>
+            <td><a href="./nro/B-002.html">B-2</a></td>
+            <td><a href="./nro/102.html">102</a></td>
             <td></td>
+            <td><a href="./nro/103.html">103</a></td>
+            <td><a href="./nro/B-003.html">B-3</a></td>
+            <td><a href="./nro/104.html">104</a></td>
+            <td><a href="./nro/B-004.html">B-4</a></td>
+            <td><a href="./nro/105.html">105</a></td>
             <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>1., 2. ..</td>
         </tr>
         <tr>
             <td>1936</td>
