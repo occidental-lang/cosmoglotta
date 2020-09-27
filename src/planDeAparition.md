@@ -144,15 +144,15 @@
         <tr>
             <td>1935</td>
             <td><a href="./nro/100.html">100</a></td>
-            <td><a href="./nro/B-001.html">B-1</a></td>
+            <td><a href="./nro/B-001.html">B1</a></td>
             <td><a href="./nro/101.html">101</a></td>
-            <td><a href="./nro/B-002.html">B-2</a></td>
+            <td><a href="./nro/B-002.html">B2</a></td>
             <td><a href="./nro/102.html">102</a></td>
             <td></td>
             <td><a href="./nro/103.html">103</a></td>
-            <td><a href="./nro/B-003.html">B-3</a></td>
+            <td><a href="./nro/B-003.html">B3</a></td>
             <td><a href="./nro/104.html">104</a></td>
-            <td><a href="./nro/B-004.html">B-4</a></td>
+            <td><a href="./nro/B-004.html">B4</a></td>
             <td><a href="./nro/105.html">105</a></td>
             <td></td>
             <td>1., 2. ..</td>
@@ -160,15 +160,15 @@
         <tr>
             <td>1936</td>
             <td><a href="./nro/106.html">106</a></td>
-            <td><a href="./nro/B-005.html">B-5</a></td>
+            <td><a href="./nro/B-005.html">B5</a></td>
             <td><a href="./nro/107.html">107</a></td>
-            <td><a href="./nro/B-006.html">B-6</a></td>
+            <td><a href="./nro/B-006.html">B6</a></td>
             <td><a href="./nro/108.html">108</a></td>
             <td></td>
             <td><a href="./nro/109.html">109</a></td>
-            <td><a href="./nro/B-007.html">B-7</a></td>
+            <td><a href="./nro/B-007.html">B7</a></td>
             <td><a href="./nro/110.html">110</a></td>
-            <td><a href="./nro/B-008.html">B-8</a></td>
+            <td><a href="./nro/B-008.html">B8</a></td>
             <td><a href="./nro/111.html">111</a></td>
             <td></td>
             <td></td>
@@ -176,17 +176,17 @@
         <tr>
             <td>1937</td>
             <td><a href="./nro/112.html">112</a></td>
-            <td><a href="./nro/B-009.html">B-9</a></td>
+            <td><a href="./nro/B-009.html">B9</a></td>
             <td><a href="./nro/113.html">113</a></td>
-            <td><a href="./nro/B-010.html">B-10</a></td>
+            <td><a href="./nro/B-010.html">B10</a></td>
             <td><a href="./nro/114.html">114</a></td>
-            <td><a href="./nro/B-011.html">B-11</a></td>
+            <td><a href="./nro/B-011.html">B11</a></td>
             <td><a href="./nro/115.html">115</a></td>
             <td><a href="./nro/116.html">116</a> + <a href="./nro/B-012.html">B-12</a></td>
             <td><a href="./nro/117.html">117</a></td>
-            <td><a href="./nro/B-013.html">B-13</a></td>
+            <td><a href="./nro/B-013.html">B13</a></td>
             <td><a href="./nro/118.html">118</a></td>
-            <td><a href="./nro/B-014.html">B-14</a></td>
+            <td><a href="./nro/B-014.html">B14</a></td>
             <td></td>
         </tr>
     </tbody>
