@@ -4,7 +4,7 @@ language = "ie"
 multilingual = false
 src = "src"
 title = "Cosmoglotta"
-description = "JURNAL SCIENTIC ÍNPARTIAL DE LINGUE INTERNATIONAL."
+description = "Archive del Jurnal Scientic Ínpartial de Lingue International. 1927-1972."
 
 [output.html]
 theme = "src/theme"

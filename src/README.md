@@ -1,9 +1,9 @@
 
 ---
 
-# Cosmoglotta
+# Cosmoglotta Archive
 
-Benevenit al Scritorium de Occidental.
+<p style="text-align:center;"><img src="img/cover.png"></p>
 
 ---
 
