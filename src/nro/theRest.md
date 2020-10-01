@@ -43388,14 +43388,13 @@ ancian francesi, ma anc tre ancian): chantat, vendut, partit.
 In fine noi vole studiar li internationalitá del verbes auxiliari esser,
 e har (haver):
 
-|===
-| Latin       | esse        | habere
-| Hispan      | ser (estar) | haber
-| Portugalesi | ser (estar) | haver
-| Francesi    | être-estre  | avoir
-| Provenzal   | esser       | aver
-| Ruman       | fire        | aveare
-|===
+| --- | --- | --- |
+| Latin       | esse        | habere |
+| Hispan      | ser (estar) | haber |
+| Portugalesi | ser (estar) | haver |
+| Francesi    | être-estre  | avoir |
+| Provenzal   | esser       | aver |
+| Ruman       | fire        | aveare |
 
 Un long comentarie ne es necessi. Li conclusion de nor micri excurse es
 que Occidental have null artificialitá, ni in vocabules ni in grammatica.
