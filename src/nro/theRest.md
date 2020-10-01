@@ -17498,25 +17498,12 @@ form e ortografie. _William Henthorne_ (Anglia)
 
 ## Comparation
 
-|===
 | Esperanto | Occidental
+| --- | --- |
+| Multaj kompetentaj personoj estas konvikitaj ke kelkaj ŝanĝoj kaj plibonigoj estas dezirindaj, kaj eĉ necesaj.| Mult competent persones es convictet que quelc changes e ameliorationes es desirabil e mem necessi. |
+| Ekzemple, la multaj groteskaj kaj absurdaj finajoj per «jn» devas esti aboliciitaj. Tiaj kaj aliaj malfacilaĵoj estas en Occidental forigitaj. | Por exemple, li mult grotesc e absurd finales per «jn» deve esser abolit. Tal e altri desfacilitás es in Occidental supresset. |
 
-| Multaj kompetentaj personoj estas konvikitaj ke kelkaj ŝanĝoj kaj
-plibonigoj estas dezirindaj, kaj eĉ necesaj.
 
-| Mult competent persones
-es convictet que quelc changes e ameliorationes es desirabil e mem
-necessi.
-
-| Ekzemple, la multaj groteskaj kaj absurdaj finajoj per «jn»
-devas esti aboliciitaj. Tiaj kaj aliaj malfacilaĵoj estas en Occidental
-forigitaj.
-
-| Por exemple, li mult grotesc e absurd finales per
-«jn» deve esser abolit. Tal e altri desfacilitás es in
-Occidental supresset.
-
-|===
 
 
 
@@ -43388,6 +43375,7 @@ ancian francesi, ma anc tre ancian): chantat, vendut, partit.
 In fine noi vole studiar li internationalitá del verbes auxiliari esser,
 e har (haver):
 
+| Lingue | esser | haver |
 | --- | --- | --- |
 | Latin       | esse        | habere |
 | Hispan      | ser (estar) | haber |
@@ -70924,33 +70912,31 @@ es reflexiv in *un* lingue va monstrar lu dit.
 
 
 
-|===
-| D                        | E                       | F
 
-| sich ändern              | to change               | changer
-| sich belaufen            | to amount to            | (se) monter à
-| sich ereifern            | to fly in a passion     | s'échauffer
-| sich ereignen            | to happen               | arriver
-| sich freuen              | to be glad              | se réjouir de
-| sich sehnen              | to long for             | désirer
-| sich unterscheiden       | to differ               | se distinguer
-| sich vermehren           | to increase             | augmenter
-| sich weigern             | to refuse               | (se) refuser (à)
-|===
+| D                        | E                       | F |
+| --- | --- | --- |
+| sich ändern              | to change               | changer |
+| sich belaufen            | to amount to            | (se) monter à |
+| sich ereifern            | to fly in a passion     | s'échauffer |
+| sich ereignen            | to happen               | arriver |
+| sich freuen              | to be glad              | se réjouir de |
+| sich sehnen              | to long for             | désirer |
+| sich unterscheiden       | to differ               | se distinguer |
+| sich vermehren           | to increase             | augmenter |
+| sich weigern             | to refuse               | (se) refuser (à) |
 
-|===
-| Occidental               | Ido                     | Esperanto
 
-| changear se              | chanjar                 | ŝanĝiĝi
-| far (summa de)           | facar sumo di           | sumiĝi (?)
-| ardentar se, calentar se | inflamesar, fervoreskar | flamiĝi, ekscitiĝi
-| evvenir                  | eventar                 | okazi
-| joyar se                 | joyar                   | ĝoji
-| desirar vivmen           | deziregar               | sopiri
-| diferer                  | distingesar             | diferenci
-| augmentar                | kreskar                 | plimultiĝi
-| refusar                  | refuzar                 | rifuzi
-|===
+| Occidental               | Ido                     | Esperanto |
+| --- | --- | --- |
+| changear se              | chanjar                 | ŝanĝiĝi |
+| far (summa de)           | facar sumo di           | sumiĝi (?) |
+| ardentar se, calentar se | inflamesar, fervoreskar | flamiĝi, ekscitiĝi |
+| evvenir                  | eventar                 | okazi |
+| joyar se                 | joyar                   | ĝoji |
+| desirar vivmen           | deziregar               | sopiri |
+| diferer                  | distingesar             | diferenci |
+| augmentar                | kreskar                 | plimultiĝi |
+| refusar                  | refuzar                 | rifuzi |
 
 In anglesi coresponde al exemples german nereflexiv verbes, proque
 anglesi in general possede solmen poc verbes reflexiv, contra que in
@@ -70959,18 +70945,18 @@ francesi li verbes reflexiv alterna con li nereflexiv verbes.
 Vice versa it existe in german un grand númere de verbes nereflexiv a
 quel in francesi coresponde verbes reflexiv.
 
-|===
-| D          | F
 
-| ahnen      | se douter
-| beichten   | se confesser
-| bereuen    | se repentir
-| schweigen  | se taire
-| ausrufen   | s'écrier
-| entfliehen | s'enfuir
-| spotten    | se moquer de
-| vertrauen  | se fier à
-|===
+| D          | F |
+| --- | --- |
+| ahnen      | se douter |
+| beichten   | se confesser |
+| bereuen    | se repentir |
+| schweigen  | se taire |
+| ausrufen   | s'écrier |
+| entfliehen | s'enfuir |
+| spotten    | se moquer de |
+| vertrauen  | se fier à |
+
 
 
 
@@ -78577,17 +78563,17 @@ internaciaj vortoj povas esti derivataj, unuj de la aliaj. Oni komparu:
 
 
 
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Okc. | constructer | construction                 | constructor          | contructiv |
+| Esp. | konstrui    | konstruado/konstrukcio       | konstruanto          | |
+| Okc. | negar       | negation                     |                      | negativ |
+| Esp. | nei         | neo                          |                      | negativa |
+| Okc. | definir     | definition                   |                      | definitiv |
+| Esp. | difini      | difino                       |                      | definitiva |
+| Okc. | redacter    | redaction                    | redactor             | |
+| Esp. | redakti     | redaktado/redaktejo/redakcio | redaktisto/redaktoro | |
 
-|===
-| Okc. | constructer | construction                 | constructor          | contructiv
-| Esp. | konstrui    | konstruado/konstrukcio       | konstruanto          |
-| Okc. | negar       | negation                     |                      | negativ
-| Esp. | nei         | neo                          |                      | negativa
-| Okc. | definir     | definition                   |                      | definitiv
-| Esp. | difini      | difino                       |                      | definitiva
-| Okc. | redacter    | redaction                    | redactor             |
-| Esp. | redakti     | redaktado/redaktejo/redakcio | redaktisto/redaktoro |
-|===
 
 Okcidentalo ne havas arbitraj vortoj, ne havas supersignoj, ne havas
 akuzativo (ekscepte ĉe la personaj pronomoj), kaj la adjektivoj ne havas
@@ -78956,9 +78942,9 @@ chrome,
 
 
 
-|===
-| At. nró | nómine                       | Simbol     | At. pesa
 
+| At. nró | nómine                       | Simbol     | At. pesa |
+| --- | --- | --- | --- |
 | 1       | hydrogen                     | H          | 1,003
 | 2       | helium                       | He         | 4,003
 | 3       | lithium                      | Li         | 6,94
@@ -79051,7 +79037,7 @@ chrome,
 | 90      | thorium                      | Th         | 232,12
 | 91      | protoectinium                | Pa         | 231,0
 | 92      | uranium                      | U          | 238,07
-|===
+
 
 
 
@@ -84321,27 +84307,27 @@ li suposition de mult persones.
 Secun Didot-Bottin de 1947, p. 2340, li max frequent lítteres, e li
 general frequentie del vocales es resp. li sequentes:
 
-|===
-| Lingue   | Max frequent lítteres | General frequentie de vocales
 
-| Francesi | E-I-I-R-A-T-N-U-L     | 45%
-| Anglesi  | E-S-D-N-T-H-Y         | 40%
-| German   | E-M-R-I-T-S-D-I       | 38%
-| Russ     | O-A-N-I-S-E-T-V       | 43%
-| Italian  | E-I-A-O-R-L-N-T       | 46%
-| Hispan   | E-A-O-S-I-R-N-L       | 48%
-|===
+| Lingue   | Max frequent lítteres | General frequentie de vocales |
+| --- | --- | --- |
+| Francesi | E-I-I-R-A-T-N-U-L     | 45% |
+| Anglesi  | E-S-D-N-T-H-Y         | 40% |
+| German   | E-M-R-I-T-S-D-I       | 38% |
+| Russ     | O-A-N-I-S-E-T-V       | 43% |
+| Italian  | E-I-A-O-R-L-N-T       | 46% |
+| Hispan   | E-A-O-S-I-R-N-L       | 48% |
+
 
 Nor colaborator G. Augiré de Paris ha anc serchat li sam frequentie in
 li 3 lingues constructet sequent:
 
-|===
-| Lingue      | Max frequent lítteres | General frequentie de vocales
 
-| Esperanto   | A-O-J-E-L-I-N-T-S     | 42%
-| Ido         | A-I-E-O-L-N-S-R       | 46%
-| Interlingue | E-S-A-I-L-O-N-T       | 44%
-|===
+| Lingue      | Max frequent lítteres | General frequentie de vocales |
+| --- | --- | --- |
+| Esperanto   | A-O-J-E-L-I-N-T-S     | 42% |
+| Ido         | A-I-E-O-L-N-S-R       | 46% |
+| Interlingue | E-S-A-I-L-O-N-T       | 44% |
+
 
 Li textu quel servit al experientie de nor colaborator es li famosi
 «Prega sur Acropolis», de Renan, ma noi deve far remarcar que ti textu
