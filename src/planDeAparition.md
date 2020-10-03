@@ -182,7 +182,7 @@
             <td><a href="./nro/114.html">114</a></td>
             <td><a href="./nro/B-011.html">B11</a></td>
             <td><a href="./nro/115.html">115</a></td>
-            <td><a href="./nro/116.html">116</a> + <a href="./nro/B-012.html">B-12</a></td>
+            <td><a href="./nro/116.html">116</a> + <a href="./nro/B-012.html">B12</a></td>
             <td><a href="./nro/117.html">117</a></td>
             <td><a href="./nro/B-013.html">B13</a></td>
             <td><a href="./nro/118.html">118</a></td>
@@ -252,6 +252,22 @@
             <td><a href="./nro/B-028.html">B28</a></td>
             <td><a href="./nro/B-029.html">B29</a></td>
             <td>6)</td>
+        </tr>
+        <tr>
+            <td>1942</td>
+            <td><a href="./nro/B-030.html">B30</a></td>
+            <td><a href="./nro/B-031.html">B31</a></td>
+            <td><a href="./nro/B-032.html">B32</a></td>
+            <td><a href="./nro/B-033.html">B33</a></td>
+            <td><a href="./nro/B-034.html">B34</a></td>
+            <td><a href="./nro/B-035.html">B35</a></td>
+            <td><a href="./nro/B-036.html">B36</a></td>
+            <td><a href="./nro/B-037.html">B37</a></td>
+            <td><a href="./nro/B-038.html">B38</a></td>
+            <td><a href="./nro/B-039.html">B39</a></td>
+            <td><a href="./nro/B-040.html">B40</a></td>
+            <td><a href="./nro/B-041.html">B41</a></td>
+            <td></td>
         </tr>
     </tbody>
 </table>
