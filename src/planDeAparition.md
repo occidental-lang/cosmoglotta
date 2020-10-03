@@ -189,6 +189,70 @@
             <td><a href="./nro/B-014.html">B14</a></td>
             <td></td>
         </tr>
+        <tr>
+            <td>1938</td>
+            <td><a href="./nro/119.html">119</a></td>
+            <td><a href="./nro/B-015.html">B15</a></td>
+            <td><a href="./nro/120.html">120</a></td>
+            <td><a href="./nro/B-016.html">B16</a></td>
+            <td><a href="./nro/121.html">121</a></td>
+            <td><a href="./nro/B-017.html">B17</a></td>
+            <td><a href="./nro/B-018.html">B18</a></td>
+            <td><a href="./nro/B-019.html">B19</a></td>
+            <td><a href="./nro/122.html">122</a></td>
+            <td><a href="./nro/B-020.html">B20</a></td>
+            <td><a href="./nro/123.html">123</a></td>
+            <td><a href="./nro/B-021.html">B21</a></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>1939</td>
+            <td><a href="./nro/124.html">124</a></td>
+            <td><a href="./nro/B-022.html">B22</a></td>
+            <td><a href="./nro/125.html">125</a></td>
+            <td><a href="./nro/B-023.html">B23</a></td>
+            <td><a href="./nro/126.html">126</a></td>
+            <td><a href="./nro/B-024.html">B24</a></td>
+            <td><a href="./nro/127.html">127</a></td>
+            <td><a href="./nro/B-025.html">B25</a></td>
+            <td><a href="./nro/128.html">128</a></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>1940</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>1941</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td><a href="./nro/B-026.html">B26</a></td>
+            <td><a href="./nro/B-027.html">B27</a></td>
+            <td><a href="./nro/B-028.html">B28</a></td>
+            <td><a href="./nro/B-029.html">B29</a></td>
+            <td>6)</td>
+        </tr>
     </tbody>
 </table>
 
